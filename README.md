@@ -1,7 +1,7 @@
 ## Hi, I'm [@ThunderBolt6969](https://github.com/ThunderBolt6969)
 
 
-- 🔭 I’m currently working on [Rythm Bot](https://frontier.xyz/)
+- 🔭 I’m currently working on [ModBot]()
 - 🌱 I’m currently learning more about Node.js
 - 💬 Ask me about anything
 - 📫 How to reach me: [Click here](https://discord.gg/VkvrWB89MS)
@@ -25,7 +25,7 @@
 
 </a>
 <a href="https://github.com/ThunderBolt6969/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThunderBolt6969&repo=&theme=light" />
 </a>
 
 <div align="center">
