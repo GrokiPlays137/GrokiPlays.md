@@ -20,13 +20,6 @@
 <a href="https://github.com/ThunderBolt6969">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThunderBolt6969&show_icons=true&theme=light&line_height=27" alt="ThunderBolt's github stats"/>
 </a>
-<a href="https://github.com/ThunderBolt6969/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThunderBolt6969&repo=&theme=light" />
-
-</a>
-<a href="https://github.com/ThunderBolt6969/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThunderBolt6969&repo=&theme=light" />
-</a>
 
 <div align="center">
 
