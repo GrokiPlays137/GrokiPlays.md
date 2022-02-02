@@ -1,7 +1,7 @@
 ## Hi, I'm [@GrokiPlays137](https://github.com/GrokiPlays137)
 
 
-- 🔭 I’m currently working on [dj.ryhtms]()
+- 🔭 I’m currently working on [dj.rhythms]()
 - 🌱 I’m currently learning more about Node.js
 - 💬 Ask me about anything
 - 📫 How to reach me: [Click here]()
